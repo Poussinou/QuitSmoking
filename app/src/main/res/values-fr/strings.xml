@@ -1,0 +1,246 @@
+<resources>
+
+    // App pas finit!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    <string name="app_name">Arrêter de fumer</string>
+    <string name="yes">OK</string>
+    <string name="no">NON</string>
+    <string name="permissions">Vous devez accorder \"Access Storage Permission\" pour permettre de sauvegarder et charger le journal et les
+        images depuis la carte SD. Ensuite, vous devrez fermer complètement l\'application ou rallumer le portable.
+        Si vous n\'accordez pas ce droit mais que vous voulez utiliser la fonction de capture d\'écran plus tard,
+        vous pourrez accorder la permission plus tard. Ouvrez alors Please open then: system settings - apps -
+        weather. In the permissions section you can grant the \"write storage permission\".</string>
+
+
+    //Share
+    <string name="share_text">Bonne nouvelle : j\'ai arrêté de fumer depuis</string>
+    <string name="share_text2">et</string>
+    <string name="share_text3">J\'ai économisé :</string>
+    <string name="share_text4">cigarettes</string>
+    <string name="share_text5">et</string>
+    <string name="share_text6">de temps.</string>
+    <string name="share_subject">J\'ai arrêté de fumer</string>
+    <string name="share_subject2">Mon journal</string>
+
+
+    // Menu
+    <string name="action_settings">Réglages</string>
+    <string name="action_share">Partager</string>
+    <string name="action_health">Vie</string>
+    <string name="action_overview">Aperçu</string>
+    <string name="action_diary">Journal</string>
+    <string name="action_goal">But</string>
+
+
+    // Main Activity
+    <string name="not_set">Configurer dans les réglages</string>
+    <string name="not_set2">0.0</string>
+
+    <string name="money_euro">€</string>
+    <string name="money_dollar">$</string>
+    <string name="money_pound">£</string>
+    <string name="money_yen">¥</string>
+
+    <string name="time_days">jours</string>
+    <string name="time_hours">heures</string>
+    <string name="time_minutes">minutes</string>
+
+    <string name="last_time_date">Stopped smoking at:</string>
+    <string name="last_since">Pas fumé depuis :</string>
+    <string name="stat">Sauvegarder :</string>
+    <string name="stat_h">h</string>
+
+
+    // Health Activity
+    <string name="health_congratulations">Bravo - Vous l\'avez fait!</string>
+    <string name="health_reached">Atteint en:</string>
+
+    <string name="health_header1">Pression artérielle</string>
+    <string name="health_description1">La pression artérielle, la température du corps et le rythme cardiaque reviennent à la normale. (20 minutes)</string>
+
+    <string name="health_header2">Monoxyde de carbone</string>
+    <string name="health_description2">Le souffle du fumeur disparaît. Le monoxyde de carbone bloque
+          environ 10% des globules rouges pour un fumeur. Ces cellules sont à nouveau disponibles
+          pour l'oxygène après 8 heures.</string>
+
+    <string name="health_header3">Ataque cardiaque</string>
+    <string name="health_description3">Le risque de mort cardiaque subite baisse. (1 jour)</string>
+
+    <string name="health_header4">Odorat</string>
+    <string name="health_description4">L\'odorat et les papilles gustatives deviennent plus sensibles; l\'odorat et le goût sont redéfinis. (2 jours)</string>
+
+    <string name="health_header5">Respiration</string>
+    <string name="health_description5">La respiration devient plus facile. (3 jours)</string>
+
+    <string name="health_header6">Sevrage de la nicotine</string>
+    <string name="health_description6">Le sevrage physique de la nicotine est effectué. (1 semaine)</string>
+
+    <string name="health_header7">Capacité</string>
+    <string name="health_description7">L\'ensemble de la circulation sanguine s\'améliore. La capacité des poumons augmente jusqu\'à 30 \%,
+         ils peuvent absorber plus d\'oxygène. Cela améliore les performances physiques. (3 mois)</string>
+//!!!!!!!!!!!!!!!!!!!!!
+    <string name="health_header8">Poils pulmonaires</string>
+    <string name="health_description8">By now, the fine hairs are regrow in the lungs, the smokers cough
+        disappears. Exhaustion and shortness of breath improve progressively. (9 months)</string>
+
+    <string name="health_header9">Coronary arteries</string>
+    <string name="health_description9">The risk of diseases of the coronary vessels is reduced by half.
+        (1 year)</string>
+
+    <string name="health_header10">Heart attack</string>
+    <string name="health_description10">The risk of heart attack drops significantly. (2 years)</string>
+
+    <string name="health_header11">Stroke</string>
+    <string name="health_description11">The risk of having a stroke or a lung cancer
+         die, is substantially lower than earlier. Also the risk of cancers of the mouth is
+         reduced. (5 years)</string>
+
+    <string name="health_header12">Lung cancer</string>
+    <string name="health_description12">The lung cancer risk is as high as a Non smoking. The lung
+         has almost fully recovered, pre-cancerous cells are replaced by healthy cells. (10 years)</string>
+
+    <string name="health_header13">Heart attack</string>
+    <string name="health_description13">The risk of heart attack is barely higher than in a Non smoking. (15 years)</string>
+
+
+    // Diary
+    <string name="edit_diary">Swipe down to load diary</string>
+    <string name="backup_diary">Backup successful</string>
+    <string name="action_date">Add current date</string>
+    <string name="action_time">Add current time</string>
+    <string name="action_line">Add a separator line</string>
+    <string name="action_backup">Backup diary</string>
+    <string name="action_restore">Restore diary</string>
+    <string name="action_delete">Delete diary</string>
+
+
+    // Goal
+    <string name="goal_gallery">Choose from gallery</string>
+    <string name="goal_camera">Take photo</string>
+    <string name="goal_cancel">Cancel</string>
+    <string name="action_imageLoad">Load image</string>
+    <string name="action_imageRotate">Rotate image</string>
+    <string name="action_imageDelete">Delete image</string>
+    <string name="costs">Costs:</string>
+    <string name="alreadySaved">Already saved:</string>
+    <string name="costsRemaining">Remaining:</string>
+
+
+    // Settings
+    <string name="settings_category_0">Tabs</string>
+    <string name="settings_category_1">Statistics</string>
+    <string name="settings_category_2">Goal tab</string>
+    <string name="settings_category_3">App</string>
+
+    <string name="settings_cig">Cigarettes</string>
+    <string name="settings_costs">Money</string>
+    <string name="settings_currency">Currency</string>
+    <string name="settings_dateFormat">Date format</string>
+    <string name="settings_date">Date</string>
+    <string name="settings_time">Time</string>
+    <string name="settings_duration">Duration</string>
+    <string name="settings_goalTitle">Goal</string>
+    <string name="settings_goalCosts">Costs of your goal</string>
+    <string name="settings_goalDate">Next goal</string>
+    <string name="settings_tab_overview">Overview tab</string>
+    <string name="settings_tab_health">Health tab</string>
+    <string name="settings_tab_goal">Goal tab</string>
+    <string name="settings_tab_diary">Diary tab</string>
+
+    <string name="settings_cig_summary">Set number of daily smoked cigarettes, to calculate not smoked cigarettes</string>
+    <string name="settings_costs_summary">Costs of a single cigarette. This is used to calculate the saved money since quitting.</string>
+    <string name="settings_currency_summary">Set your preferred currency</string>
+    <string name="settings_dateFormat_summary">Set your preferred date format. Use it always, when you enter a date.</string>
+    <string name="settings_date_summary">Set date of last smoked cigarette</string>
+    <string name="settings_time_summary">Set time of last smoked cigarette</string>
+    <string name="settings_duration_summary">The time you need to smoke one cigarette. This is user to calculate the saved
+        time since quitting.</string>
+    <string name="settings_goalTitle_summary">Set the title of your goal. For what will you use the saved money?</string>
+    <string name="settings_goalCosts_summary">What are the costs of your goal? Use a integer number. Used to calculate the
+        time when you reach your goal.</string>
+    <string name="settings_goalDate_summary">If you reached your current goal, you can set here a start date for your next goal. This
+        is necessary to calculate the new time when you reach the next goal, while keeping the right statistics from the
+        overview tab.</string>
+    <string name="settings_tab_overview_summary">Do you want to use the overview tab? In this tab the main statistics are presented:
+        the time of quitting, saved cigarettes, saved money and so on.</string>
+    <string name="settings_tab_health_summary">Do you want to use the health tab? In this tab the progress of your health benefits are
+        presented: risk oh heart attack, cancer and so on.</string>
+    <string name="settings_tab_goal_summary">Do you want to use the goal tab? Here you can set a personal goal. Something you want to use the
+        saved money for.</string>
+    <string name="settings_tab_diary_summary">Do you want to use the diary tab? Here you can write a diary with your thoughts,
+        problems and something like this. Perhaps it will help you.</string>
+
+    <string name="settings_cig_hint">Number off daily smoked cigarettes</string>
+    <string name="settings_cost_hint">What costs one cigarette?</string>
+    <string name="settings_date_hint">Use your preferred date format</string>
+    <string name="settings_time_hint">Use 24h format: 22:22</string>
+    <string name="settings_duration_hint">Time in hours: 0.2</string>
+    <string name="settings_goalTitle_hint">Name of your goal</string>
+    <string name="settings_goalCosts_hint">Use integer number: 199</string>
+
+    <string name="settings_changelog">Changelog</string>
+    <string name="settings_changelog_summary">What is new?</string>
+    <string name="settings_license">License</string>
+    <string name="settings_license_summary">App is licensed under the GPL3.</string>
+
+
+    //License Dialog
+    <string name="about_title">Copyright © 2016 by Gaukler Faun</string>
+    <string name="about_text">
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see http://www.gnu.org/licenses.
+    </string>
+
+
+    //Changelog Dialog
+    <string name="changelog_text">
+        &lt;i>For more informations visit the project site on github:&lt;br>
+        https://github.com/scoute-dich/QuitSmoking&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>v 1.1 - v 1.1.2:&lt;/b>&lt;br>
+        &#8226; fixed toolbar layout&lt;br>
+        &#8226; added goal tab&lt;br>
+        &#8226; completed english translation&lt;br>&lt;br>
+
+        &lt;b>v 1.0:&lt;/b>&lt;br>
+        &#8226; first release
+    </string>
+
+
+    //String arrays
+    <string-array name="listCurrency">
+        <item>Euro (€)</item>
+        <item>Dollar ($)</item>
+        <item>Pound (£)</item>
+        <item>Yen (¥)</item>
+    </string-array>
+
+    <string-array name="listValuesCurrency">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="listDate">
+        <item>International (2016–06–20)</item>
+        <item>German (20.06.2016)</item>
+    </string-array>
+
+    <string-array name="listValuesDate">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
+
+    Contact GitHub API Training Shop Blog About 
+
